@@ -346,7 +346,4 @@ test/*
 !/test/*.bc
 !/test/*.ll
 
-note.txt
-translate.*
-详细设计.md
-心得体会.txt
+privateDoc/
